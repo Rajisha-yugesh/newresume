@@ -1,0 +1,26 @@
+#about {
+    text-align: center;
+    margin: 40px;
+  }
+  #about img {
+    width: 200px;
+    border-radius: 100%;
+  }
+  #about h1 {
+    margin: 25px;
+  }
+  section {
+    margin: 40px;
+  }
+  .hh{
+
+    padding-left: 50;
+    padding-top: 10;
+
+  }
+  footer { 
+    display: block;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+  }
